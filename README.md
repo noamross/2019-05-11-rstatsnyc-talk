@@ -60,7 +60,7 @@ doc_enhanced <- function(...) {
     
     
     doc <- read_docx("template.docx") %>%  # Re-use the template
-      body_add_docx(output_file) %>%       # Pour the whole template into it
+      body_add_docx(output_file) %>%       # Pour the output into it
       body_replace_img_at_bkm(             # Add annotations at bookmarks
         bookmark = "logo",
         value = external_img(src = "sidebar.png", width = 1.77, height = 6.031))
