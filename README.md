@@ -1,6 +1,8 @@
 [![](cover-slide.png)](2018-11-06-rladies-office-talk.pdf)
 
-[Slides](2018-11-06-rladies-office-talk.pdf) from a talk given at the [R-Ladies NYC](http://www.rladiesnyc.org/) meetup [on 2018-11-06](https://www.meetup.com/rladies-newyork/events/255925263/)
+[Slides](2018-11-06-rladies-office-talk.pdf) from a talk given at the [R-Ladies NYC](http://www.rladiesnyc.org/) meetup [on 2018-11-06](https://www.meetup.com/rladies-newyork/events/255925263/).  
+
+(Lovely [Gustave Doré Engraving](https://commons.wikimedia.org/wiki/File:Adventure_with_the_Windmills.jpg) from "The Ingenious Hidalgo Don Quixote of La Mancha" - 1863.)
 
 ## Resources and references
 
