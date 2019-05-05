@@ -1,0 +1,16 @@
+---
+title: Some R Markdown with Critic Markup
+author: Noam Ross
+date: Created `r Sys.Date()`
+output: redoc::redoc
+---
+
+**redoc** supports [Critic Markup](http://criticmarkup.com/users-guide.php)
+syntax for comments.  
+
+You can {++ include ++} edits and they will be converted
+to {~~ tacked ~> tracked ~~} changes in your {== Word document ==}{>> Neat! <<}.
+
+By default {-- default --}, your system username is used as the author of
+changes, but this can be set with the `comment_author` argument in `redoc()`
+or your document YAML.
